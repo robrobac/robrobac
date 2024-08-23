@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m Roberto, 🎨 **Graphic Designer** & 💻 **Frontend Developer** from Croatia.\
-I love blending design and code into responsive, eye-catching, and user-friendly 🌐 websites.
+I enjoy blending design and code into responsive, eye-catching, and user-friendly 🌐 websites.
 
 <!--
 **robrobac/robrobac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
