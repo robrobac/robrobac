@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Roberto, 🎨 **Graphic Designer** & 💻 **Frontend Developer** from Croatia.\
+I’m Roberto, 🎨 **Graphic Designer** & 💻 **Frontend Developer** from Croatia.
 
 <!--
 **robrobac/robrobac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
